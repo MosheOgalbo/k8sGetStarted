@@ -28,8 +28,6 @@ kubectl apply -f .\webapp.yaml
 ## check node
 kubectl get all
 
-kubectl get all
-
 kubectl get configmap
 
 kubectl get secret
