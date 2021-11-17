@@ -34,8 +34,6 @@ kubectl get secret
 
 kubectl describe service webapp-service
 
-kubectl describe pod pod/webapp-deployment-dcffd6bcc-pplhr
-
 kubectl describe pod webapp-deployment-dcffd6bcc-pplhr
 
 kubectl get all
